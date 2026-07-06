@@ -172,7 +172,7 @@ Resources deployed:
 
 This confirms that the same Terraform modules successfully provisioned separate infrastructures for both environments while maintaining complete isolation.
 
-[insert Azure Portal Screenshot Here](./Images/module-done-2.png)
+![insert Azure Portal Screenshot Here](./Images/module-done-2.png)
 
 ---
 
